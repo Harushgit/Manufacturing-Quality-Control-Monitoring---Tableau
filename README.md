@@ -1,4 +1,4 @@
-# 🏭 Manufacturing Quality Control Monitoring Dashboard (Tableau) – HCL-Tech
+# 🏭 Quality Control Monitoring Dashboard (Tableau)
 
 This project presents a **comprehensive Tableau dashboard** designed to monitor and analyze **manufacturing quality control** processes using a **synthetic manufacturing dataset**. Built specifically for **HCL Technologies**, the dashboard offers a tailored experience for different stakeholder groups, providing **actionable insights and interactive visualizations**.
 
